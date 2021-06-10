@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cheba/ros_example/example/build/devel/setup.sh
